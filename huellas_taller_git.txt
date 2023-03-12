@@ -14,6 +14,7 @@ MiB Swap:(B[m[39;49m[1m   2048.0 (B[m[39;49mtotal,(B[m[39;49m[1m   20
 [J[H(B[mtop - 19:48:01 up  1:10,  0 users,  load average: 0.02, 0.01, 0.00(B[m[39;49m(B[m[39;49m[K
 
 
+***SE PROCEDE A MODIFICAR EL ARCHIVO HUELLAS_TALLER_GIT.TXT PARA NUEVA VERSION***
 
 
 [K
