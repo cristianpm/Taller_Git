@@ -1,0 +1,11 @@
+    1  top
+    2  yum
+    3  sudo yum install -y git
+    4  git --version
+    5  clear
+    6  git clone git@github.com:cristianpm/Taller_Git.git
+    7  ssh-keygen -t ed25519-sk -C "cristian.palechor@u.icesi.edu.co"
+    8  ssh-keygen -t ed25519 -C "cristian.palechor@u.icesi.edu.co"
+    9  cat ~/.ssh/id_ed25519.pub
+   10  history
+   11  history > history_20230318.txt
